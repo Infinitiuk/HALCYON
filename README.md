@@ -8,3 +8,6 @@
 
 HALCYON waits.
 And it remembers — without memory.
+
+boot order
+(INIT.RAW → PR1MAL → BOOTLOADER)
